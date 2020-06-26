@@ -29,7 +29,16 @@ After that ,
 
 If above installation shows error the ignore it  
 
+
+
+![alt text](https://github.com/faraza753/Ping-Pong-game-using-turtle/blob/master/ss/ss1.png)
+
+
+
 Important Point:- Don’t save your file with name turtle.py it otherwise system uses that file as package
+
+
+![alt text](https://github.com/faraza753/Ping-Pong-game-using-turtle/blob/master/ss/ss.png)
 
 
 
